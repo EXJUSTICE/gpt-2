@@ -1,6 +1,7 @@
-**Status:** Archive (code is provided as-is, no updates expected)
 
 # gpt-2
+
+Adapted for TowardsDataScience for Fake News Generation.
 
 Code and models from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 
